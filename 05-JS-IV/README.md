@@ -32,7 +32,7 @@ En esta lección cubriremos:
 
 En la anterior lección aprendimos sobre *arrays* o matrices. Las matrices son contenedores que sostienen colecciones de datos. En esta lección, introduciremos otro contenedor de datos, el *Objeto*. Los objetos y las matrices son similares en ciertas cosas, y muy diferentes en otras. Mientras que los array pueden contener múltiples elementos relacionados unos con otros, los objetos contienen mucha información sobre una sola cosa. Los objetos se instancian usando llaves (`{}`).
 
-```javascript
+```javascript 
 const nuevoObjeto = {};
 ```
 
