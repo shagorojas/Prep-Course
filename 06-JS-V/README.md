@@ -32,11 +32,11 @@ En este ejemplo crearemos una clase `Gato`. La convención para las clases consi
 
 ```js
 function Gato(nombre) {
-    // El nuevo operador crea un objeto, "this"
-    this.nombre = nombre;
-    this.maullar = function() {
-        return 'Mi nombre es ' + this.nombre + ' ... Meow!';
-    }
+// El nuevo operador crea un objeto, "this"
+this.nombre = nombre;
+this.maullar = function() {
+return 'Mi nombre es ' + this.nombre + ' ... Meow!';
+}
     // Devuelve el objeto "this"
 }
 
